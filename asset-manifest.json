@@ -1,14 +1,14 @@
 {
-  "main.css": "/rogant.github.io/static/css/main.489847a9.chunk.css",
-  "main.js": "/rogant.github.io/static/js/main.c681d901.chunk.js",
-  "main.js.map": "/rogant.github.io/static/js/main.c681d901.chunk.js.map",
-  "runtime~main.js": "/rogant.github.io/static/js/runtime~main.14deaffe.js",
-  "runtime~main.js.map": "/rogant.github.io/static/js/runtime~main.14deaffe.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/rogant.github.io/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/rogant.github.io/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/rogant.github.io/index.html",
-  "precache-manifest.6b03fad9706584c7f664e3156a42dcf3.js": "/rogant.github.io/precache-manifest.6b03fad9706584c7f664e3156a42dcf3.js",
-  "service-worker.js": "/rogant.github.io/service-worker.js",
-  "static/css/main.489847a9.chunk.css.map": "/rogant.github.io/static/css/main.489847a9.chunk.css.map",
-  "static/media/logo.svg": "/rogant.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.489847a9.chunk.css",
+  "main.js": "/static/js/main.987b2bde.chunk.js",
+  "main.js.map": "/static/js/main.987b2bde.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.27541b6851f555cfa39e64b42a498369.js": "/precache-manifest.27541b6851f555cfa39e64b42a498369.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.489847a9.chunk.css.map": "/static/css/main.489847a9.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
