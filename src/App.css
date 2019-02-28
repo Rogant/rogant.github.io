@@ -32,7 +32,7 @@
   }
 }
 
-.blinking-cursor {
+.App-blinking {
   font-weight: 100;
   font-size: 30px;
   color: white;

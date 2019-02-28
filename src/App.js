@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Under construction... <span className="blinking-cursor">|</span>
+            Under construction... <span className="App-blinking">|</span>
           </p>
           <a
             className="App-link"
