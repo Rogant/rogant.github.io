@@ -9,15 +9,19 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Under construction... <span className="blinking-cursor">|</span>
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/rogant/"
           >
-            Learn React
+            In the mind time visit my Linkedin
+          </a>
+          <a
+            className="App-link" 
+            href="mailto:me@andresvargas.dev"
+          > 
+            or send me an email: me@andresvargas.dev
           </a>
         </header>
       </div>
